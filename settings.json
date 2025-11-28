@@ -1,0 +1,27 @@
+{
+  "workbench.editor.autoLockGroups": {
+    "default": true
+  },
+  "remote.portsAttributes": {
+    "443": {
+      "protocol": "https"
+    },
+    "8443": {
+      "protocol": "https"
+    }
+  },
+
+  // Enable Playwright Test Explorer
+  "playwright.testExplorer.enabled": true,
+
+  // Disable Python test prompt
+  "python.testing.enabled": false,
+  "remote.extensionKind": {
+
+    "pub.name": [
+      "ui"
+    ]
+  },
+  "playwright.showTrace": false,
+  "playwright.reuseBrowser": true
+}
